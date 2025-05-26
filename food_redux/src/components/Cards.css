@@ -1,0 +1,17 @@
+.card {
+    width: 30%;
+    height: auto;
+    margin: 10px 15px;
+    
+}
+img.card-img-top {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin-top:10px;
+}
+
+.button_div{
+    display: flex;
+    justify-content: center;
+}
